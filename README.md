@@ -1,6 +1,6 @@
 # DATA SCIENCE CHEATSHEET
 
-        | ACTUAL:T | ACTUAL:F
+| ACTUAL:T | ACTUAL:F
 ------------ | -------------
 PREDS:T | TP | FP
 PREDS:F | FN | TN
