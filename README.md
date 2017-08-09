@@ -4,6 +4,7 @@
 ------- | ---------| -------- | ----
 PREDS:T | TP       | FP       | Precision = TP / (TP + FP)
 PREDS:F | FN       | TN       | 
+.       | Sensitivity = TP / (TP + FN) | Specificity = FP / (FP + TN) | Accuracy = (TP + TN) / (TP + TN + FP + FN) 
 
 
 TERM | DEFINITION
