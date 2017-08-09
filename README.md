@@ -1,9 +1,9 @@
 # DATA SCIENCE CHEATSHEET
 
-.. | ACTUAL:T | ACTUAL:F
--- | ---------- | -------------
-PREDS:T | TP | FP
-PREDS:F | FN | TN
+..      | ACTUAL:T | ACTUAL:F | 
+------- | ---------| -------- | ----
+PREDS:T | TP       | FP       | Precision = TP / (TP + FP)
+PREDS:F | FN       | TN       | 
 
 
 TERM | DEFINITION
